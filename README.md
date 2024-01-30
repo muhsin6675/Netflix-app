@@ -4,14 +4,6 @@ Live Demo : https://muhsin6675.github.io/Netflix-app/
 
 This is a  Netflix clone created using React-Vite. The website allows users to browse movie data such as posters, names, descriptions, and trailers from YouTube using the `react-youtube` package.The website  uses `axios` to connect to the `TMDb API`. 
 
-
-![movie](https://github.com/SudhiSumesh/Movie_App/assets/138238228/9d1bd138-c7b6-471f-8b07-6dc1b8342871)
-
-
-##  Trailer
-
-![movie](https://github.com/SudhiSumesh/Movie_App/assets/138238228/4176e8be-740c-481c-8933-1c027547365e)
-
 ## Axios and TMDb API
 
 This project uses Axios to connect to the TMDb API. The API key is stored in a separate file called `Constants.js`. The file structure is well-organized to keep the code clean and easy to maintain.
